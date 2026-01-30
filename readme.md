@@ -43,7 +43,12 @@ REQUESTER, APPROVER, ADMIN
 ## Testing
 JUnit and Mockito used.
 
+
+### Create Request Successfully and get the jwt token in response 
 <img width="1758" height="810" alt="image" src="https://github.com/user-attachments/assets/618d4b8b-188f-45d9-81e1-e1af184a1f47" />
+
+### H2 Database Console after creating request
+<img width="1337" height="603" alt="image" src="https://github.com/user-attachments/assets/09304e66-8510-497a-8d09-d17df19cc155" />
 
 Test coverage above 80%.
 
