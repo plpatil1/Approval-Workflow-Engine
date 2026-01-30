@@ -42,6 +42,9 @@ REQUESTER, APPROVER, ADMIN
 
 ## Testing
 JUnit and Mockito used.
+
+<img width="1758" height="810" alt="image" src="https://github.com/user-attachments/assets/618d4b8b-188f-45d9-81e1-e1af184a1f47" />
+
 Test coverage above 80%.
 
 ## Sample Workflow
